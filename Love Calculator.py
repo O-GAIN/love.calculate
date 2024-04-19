@@ -3,7 +3,6 @@ import random
 name1 = str(input("Enter your name: "))
 name2 = str(input("Enter your crush or partner name: "))
 
-
 per1 = range(90,101)
 per2 = range(83,101)
 per3 = range(77,101)
